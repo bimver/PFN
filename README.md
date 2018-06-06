@@ -16,3 +16,6 @@ PFN is a saliency model built on CNNs(VGG-16,Resnet or DenseNet), this code prov
 2. Run --python create_caffe_data.py
 3. Chang the txt path(created by create_caffe_data.py) in PFN.prototxt
 4. Run --python solve.py
+
+
+In training, a pretrained VGG-16 model is needed, you can find it easily in the Internet.
