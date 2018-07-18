@@ -7,7 +7,7 @@ PFN is a saliency model built on CNNs(VGG-16,Resnet or DenseNet), this code prov
 
 ###Test your images
 1. Download the project code
-2. Download our pretrained model from Baidu Yun (https://pan.baidu.com/s/1NLb1_6mEfAF9aoaVppKZWA)
+2. Download our pretrained model from Baidu Yun (https://pan.baidu.com/s/1K2bzeA-VY_WM4c2rwCEBDw)
 3. Change the image path and save path in demo.py
 4. Run --python demo.py
 
