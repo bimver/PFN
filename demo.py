@@ -9,7 +9,7 @@ import time
 
 def initNet(root_path='./',device_no=0):
     MODEL_FILE = root_path+'PFNdeploy.prototxt'
-    PRETRAINED = root_path+'train_iter_120000.caffemodel'
+    PRETRAINED = root_path+'PFN.caffemodel'
     if device_no>=0:
         caffe.set_device(1)
         caffe.set_mode_gpu()
