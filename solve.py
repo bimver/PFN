@@ -27,5 +27,5 @@ del VGGnet
 #surgery.interp(solver.net, interp_layers)
 
 # scoring
-solver.step(120000)
+solver.step(60000)
     
