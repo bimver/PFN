@@ -45,8 +45,8 @@ def process(imageDir,gtDir,prefix,filelist,M,N):
         idx=idx+1
     return idx
 
-M=320
-N=320
+M=352
+N=352
 dataDir='./MSRAtrain/'
 save_root=dataDir +'hdf5/'
 if os.path.exists(save_root):
